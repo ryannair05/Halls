@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Halls</string>
+    <string name="destination_meals">Meals</string>
+    <string name="destination_my_meals">My Meals</string>
+    <string name="destination_cata">CATA</string>
+    <string name="destination_recreation">Recreation</string>
+    <plurals name="cata_bus_count">
+        <item quantity="one">%d bus</item>
+        <item quantity="other">%d buses</item>
+    </plurals>
+    <string name="cata_maps_unavailable">The transit map is unavailable in this build. Add your own Google Maps key using the README setup instructions, then rebuild. Dining and other campus features remain available.</string>
+</resources>

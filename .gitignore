@@ -1,0 +1,45 @@
+# Local tooling and internal documentation
+.DS_Store
+.agents/
+AGENTS.md
+.idea/
+*.iml
+Docs/
+docs/
+
+# Private service configuration and signing
+GoogleService-Info.plist
+google-services.json
+secrets.properties
+local.properties
+.env
+.env.*
+*.p8
+*.p12
+*.pem
+*.key
+*.jks
+*.keystore
+*.mobileprovision
+*.provisionprofile
+*.storekit
+*.storelist
+
+# Xcode
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+*.xcarchive
+*.ipa
+*.dSYM/
+
+# Android / Gradle
+.gradle/
+.kotlin/
+.externalNativeBuild/
+.cxx/
+captures/
+release/
+*.apk
+*.aab
